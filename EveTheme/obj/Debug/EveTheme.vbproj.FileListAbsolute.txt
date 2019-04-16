@@ -1,0 +1,8 @@
+D:\Projects\GameLauncher\EveTheme\obj\Debug\EveTheme.Resources.resources
+D:\Projects\GameLauncher\EveTheme\obj\Debug\EveTheme.vbproj.GenerateResource.Cache
+D:\Projects\GameLauncher\EveTheme\bin\Debug\EveTheme.dll
+D:\Projects\GameLauncher\EveTheme\bin\Debug\EveTheme.pdb
+D:\Projects\GameLauncher\EveTheme\bin\Debug\EveTheme.xml
+D:\Projects\GameLauncher\EveTheme\obj\Debug\EveTheme.dll
+D:\Projects\GameLauncher\EveTheme\obj\Debug\EveTheme.xml
+D:\Projects\GameLauncher\EveTheme\obj\Debug\EveTheme.pdb

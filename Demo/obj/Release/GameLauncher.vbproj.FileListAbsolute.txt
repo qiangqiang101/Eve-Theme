@@ -1,0 +1,16 @@
+D:\Projects\GameLauncher\GameLauncher\bin\Release\GameLauncher.exe
+D:\Projects\GameLauncher\GameLauncher\bin\Release\GameLauncher.pdb
+D:\Projects\GameLauncher\GameLauncher\bin\Release\GameLauncher.xml
+D:\Projects\GameLauncher\GameLauncher\bin\Release\EveTheme.dll
+D:\Projects\GameLauncher\GameLauncher\bin\Release\EveTheme.pdb
+D:\Projects\GameLauncher\GameLauncher\bin\Release\EveTheme.xml
+D:\Projects\GameLauncher\GameLauncher\obj\Release\GameLauncher.vbprojResolveAssemblyReference.cache
+D:\Projects\GameLauncher\GameLauncher\obj\Release\GameLauncher.frmLoginTest.resources
+D:\Projects\GameLauncher\GameLauncher\obj\Release\GameLauncher.frmOthers.resources
+D:\Projects\GameLauncher\GameLauncher\obj\Release\GameLauncher.frmSetting.resources
+D:\Projects\GameLauncher\GameLauncher\obj\Release\GameLauncher.frmTest.resources
+D:\Projects\GameLauncher\GameLauncher\obj\Release\GameLauncher.Resources.resources
+D:\Projects\GameLauncher\GameLauncher\obj\Release\GameLauncher.vbproj.GenerateResource.Cache
+D:\Projects\GameLauncher\GameLauncher\obj\Release\GameLauncher.exe
+D:\Projects\GameLauncher\GameLauncher\obj\Release\GameLauncher.xml
+D:\Projects\GameLauncher\GameLauncher\obj\Release\GameLauncher.pdb
